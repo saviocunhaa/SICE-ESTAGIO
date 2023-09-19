@@ -31,6 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto desenvolvido para automatizar processos repetitivos e cansativos de Sistema do SICE ORIENTADOR. 
 
 ## 🔖 Imagens
+![image](https://github.com/saviocunhaa/SICE-ESTAGIO/assets/12139704/b8804312-4005-4056-bfd0-c88feb2f9990)
 
 
 
